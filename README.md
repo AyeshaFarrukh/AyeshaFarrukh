@@ -56,6 +56,7 @@ In mobile apps, I can help you with iOS apps, Android apps, and hybrid apps.
 </p>
 <br>
 <h5>📊 This week I spent my time on:</h5>
-This Week I Spent My Time On:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
