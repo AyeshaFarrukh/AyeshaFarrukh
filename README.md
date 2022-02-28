@@ -57,9 +57,11 @@ In mobile apps, I can help you with iOS apps, Android apps, and hybrid apps.
 <br>
 <h5>📊 This week I spent my time on:</h5>
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 
