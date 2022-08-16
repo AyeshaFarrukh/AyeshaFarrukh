@@ -3,7 +3,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-<h1>I am a Flutter and Angular developer</h1>
+<h1>I am a Angular, Ionic and Flutter developer</h1>
 
 <p dir="auto">
   <a href="https://www.linkedin.com/in/ayesha-f-63273a150/" rel="nofollow">
