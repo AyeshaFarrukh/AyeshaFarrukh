@@ -21,7 +21,7 @@
   <a href="https://twitter.com/DevilDeveloper0" rel="nofollow">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://t.me/AyeshaFarrukh" rel="nofollow">
+  <a href="https://github.com/AyeshaFarrukh" rel="nofollow">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;">
   </a>
   <a href="https://stackoverflow.com/users/10823587/ayesha-f" rel="nofollow">
