@@ -61,7 +61,7 @@ In mobile apps, I can help you with iOS apps, Android apps, and hybrid apps.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Angular, Ionic, Flutter
 ```
 
 <!--END_SECTION:waka-->
