@@ -53,7 +53,7 @@ In mobile apps, I can help you with iOS apps, Android apps, and hybrid apps.
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyeshaFarrukh&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" />
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaFarrukh)](https://github.com/AyeshaFarrukh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaFarrrukh&layout=compact)](https://github.com/AyeshaFarrukh/github-readme-stats)
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaFarrukh&amp;exclude_repo=KNN-Image-Classification&amp;show_icons=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=8">
 </p>
